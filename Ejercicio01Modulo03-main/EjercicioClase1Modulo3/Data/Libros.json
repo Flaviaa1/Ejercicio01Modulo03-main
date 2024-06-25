@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Alquimista",
+    "autor": "Paulo Coelho",
+    "isbn": "978-84-663-3797-4",
+    "genero": "Autoayuda",
+    "fechaPublicacion": "1988-03-01"
+  },
+  {
+    "id": 2,
+    "titulo": "Cumbres borrascosas",
+    "autor": "Emily Bronte",
+    "isbn": "978-84-206-6173-1",
+    "genero": "Romance",
+    "fechaPublicacion": "1847-12-08"
+  },
+  {
+    "id": 3,
+    "titulo": "El poder del ahora",
+    "autor": "Eckhart Tolle",
+    "isbn": "978-84-290-1661-2",
+    "genero": "Autoayuda",
+    "fechaPublicacion": "1997-10-01"
+  },
+  {
+    "id": 4,
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "isbn": "978-84-206-5037-1",
+    "genero": "Fantasia gotica",
+    "fechaPublicacion": "1891-06-16"
+  },
+  {
+    "id": 5,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "isbn": "978-84-206-5038-8",
+    "genero": "Distopia",
+    "fechaPublicacion": "1949-06-21"
+  },
+  {
+    "id": 6,
+    "titulo": "El conde de Montecristo",
+    "autor": "Alejandro Dumas",
+    "isbn": "978-84-206-6174-9",
+    "genero": "Aventura",
+    "fechaPublicacion": "1844-10-28"
+  },
+  {
+    "id": 7,
+    "titulo": "El hombre en busca de sentido",
+    "autor": "Viktor E. Frankl",
+    "isbn": "978-84-9992-042-8",
+    "genero": "Autoayuda",
+    "fechaPublicacion": "1945-09-01"
+  },
+  {
+    "id": 8,
+    "titulo": "El diario de Ana Frank",
+    "autor": "Ana Frank",
+    "isbn": "978-84-670-0160-4",
+    "genero": "Biografia",
+    "fechaPublicacion": "1947-06-20"
+  },
+  {
+    "id": 9,
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "isbn": "978-84-206-6175-5",
+    "genero": "Romance",
+    "fechaPublicacion": "1813-01-28"
+  },
+  {
+    "id": 10,
+    "titulo": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "isbn": "978-84-206-5052-6",
+    "genero": "Fantasia",
+    "fechaPublicacion": "1937-09-21"
+  },
+  {
+    "id": 11,
+    "titulo": "El guardian entre el centeno",
+    "autor": "J.D. Salinger",
+    "isbn": "978-84-670-0073-1",
+    "genero": "Novela",
+    "fechaPublicacion": "1951-07-16"
+  },
+  {
+    "id": 12,
+    "titulo": "El gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "isbn": "978-84-206-6176-2",
+    "genero": "Novela",
+    "fechaPublicacion": "1925-04-10"
+  },
+  {
+    "id": 13,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel Garcia Marquez",
+    "isbn": "978-84-234-0498-8",
+    "genero": "Realismo magico",
+    "fechaPublicacion": "1967-05-30"
+  },
+  {
+    "id": 14,
+    "titulo": "El Señor de los Anillos: Las dos torres",
+    "autor": "J.R.R. Tolkien",
+    "isbn": "978-84-206-5054-2",
+    "genero": "Fantasia",
+    "fechaPublicacion": "1954-11-11"
+  },
+  {
+    "id": 15,
+    "titulo": "20.000 leguas de viaje submarino",
+    "autor": "Julio Verne",
+    "isbn": "978-84-663-3279-0",
+    "genero": "Aventura",
+    "fechaPublicacion": "1870-11-20"
+  },
+  {
+    "id": 16,
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupery",
+    "isbn": "978-84-670-0107-7",
+    "genero": "Infantil",
+    "fechaPublicacion": "1943-04-06"
+  },
+  {
+    "id": 23,
+    "titulo": "El Señor de los Anillos: El retorno del rey",
+    "autor": "J.R.R. Tolkien",
+    "isbn": "978-84-206-5055-9",
+    "genero": "Fantasia",
+    "fechaPublicacion": "1955-10-20"
+  },
+  {
+    "id": 24,
+    "titulo": "Breve historia del tiempo",
+    "autor": "Stephen Hawking",
+    "isbn": "978-84-206-5370-2",
+    "genero": "Fisica",
+    "fechaPublicacion": "1988-03-01"
+  },
+  {
+    "id": 25,
+    "titulo": "La doble helice",
+    "autor": "James D. Watson",
+    "isbn": "978-84-206-5642-8",
+    "genero": "Biologia",
+    "fechaPublicacion": "1968-04-05"
+  },
+  {
+    "id": 26,
+    "titulo": "El origen de las especies",
+    "autor": "Charles Darwin",
+    "isbn": "978-84-206-6066-7",
+    "genero": "Biologia evolutiva",
+    "fechaPublicacion": "1859-11-24"
+  },
+  {
+    "id": 27,
+    "titulo": "Cosmos",
+    "autor": "Carl Sagan",
+    "isbn": "978-84-206-3598-9",
+    "genero": "Astronomia",
+    "fechaPublicacion": "1980-09-12"
+  },
+  {
+    "id": 28,
+    "titulo": "Sapiens: Una breve historia de la humanidad",
+    "autor": "Yuval Noah Harari",
+    "isbn": "978-84-206-6679-5",
+    "genero": "Historia",
+    "fechaPublicacion": "2011-09-09"
+  },
+  {
+    "id": 29,
+    "titulo": "El universo en un cascaron de nuez",
+    "autor": "Stephen Hawking",
+    "isbn": "978-84-206-5643-5",
+    "genero": "Cosmologia",
+    "fechaPublicacion": "2000-09-28"
+  },
+  {
+    "id": 30,
+    "titulo": "El gen egoista",
+    "autor": "Richard Dawkins",
+    "isbn": "978-84-206-6321-5",
+    "genero": "Biologia evolutiva",
+    "fechaPublicacion": "1976-09-02"
+  },
+  {
+    "id": 31,
+    "titulo": "La estructura de las revoluciones cientificas",
+    "autor": "Thomas S. Kuhn",
+    "isbn": "978-84-206-1345-2",
+    "genero": "Filosofia de la ciencia",
+    "fechaPublicacion": "1962-06-13"
+  },
+  {
+    "id": 32,
+    "titulo": "Un viaje a traves del tiempo",
+    "autor": "Stephen Hawking",
+    "isbn": "978-84-206-5826-6",
+    "genero": "Cosmologia",
+    "fechaPublicacion": "2005-09-29"
+  },
+  {
+    "id": 33,
+    "titulo": "El sueño del robot",
+    "autor": "Isaac Asimov",
+    "isbn": "978-84-206-5835-7",
+    "genero": "Ciencia ficcion",
+    "fechaPublicacion": "1966-01-01"
+  },
+  {
+    "id": 34,
+    "titulo": "El mundo de Sophie",
+    "autor": "Jostein Gaarder",
+    "isbn": "978-84-206-5644-2",
+    "genero": "Filosofia",
+    "fechaPublicacion": "1991-09-01"
+  },
+  {
+    "id": 35,
+    "titulo": "La fisica de lo imposible",
+    "autor": "Michio Kaku",
+    "isbn": "978-84-206-5921-7",
+    "genero": "Fisica",
+    "fechaPublicacion": "2006-09-12"
+  },
+  {
+    "id": 36,
+    "titulo": "El cerebro del hombre",
+    "autor": "David Eagleman",
+    "isbn": "978-84-206-6181-1",
+    "genero": "Neurociencia",
+    "fechaPublicacion": "2012-09-11"
+  },
+  {
+    "id": 37,
+    "titulo": "El universo elegante",
+    "autor": "Brian Greene",
+    "isbn": "978-84-206-5778-4",
+    "genero": "Fisica teorica",
+    "fechaPublicacion": "2000-09-19"
+  },
+  {
+    "id": 38,
+    "titulo": "El codigo de la vida",
+    "autor": "Niles Eldredge",
+    "isbn": "978-84-206-6182-8",
+    "genero": "Paleontologia",
+    "fechaPublicacion": "2000-01-01"
+  },
+  {
+    "id": 39,
+    "titulo": "La molecula de la felicidad",
+    "autor": "Dean Hamer",
+    "isbn": "978-84-206-5645-9",
+    "genero": "Neurociencia",
+    "fechaPublicacion": "1999-09-01"
+  },
+  {
+    "id": 40,
+    "titulo": "El gran diseño",
+    "autor": "Stephen Hawking",
+    "isbn": "978-84-206-6322-2",
+    "genero": "Cosmologia",
+    "fechaPublicacion": "2010-09-09"
+  },
+  {
+    "id": 41,
+    "titulo": "La evolucion del hombre",
+    "autor": "Richard Leakey",
+    "isbn": "978-84-206-5053-3",
+    "genero": "Antropologia",
+    "fechaPublicacion": "1981-09-01"
+  },
+  {
+    "id": 42,
+    "titulo": "La mente del hombre",
+    "autor": "Richard Dawkins",
+    "isbn": "978-84-206-5779-1",
+    "genero": "Neurociencia",
+    "fechaPublicacion": "2000-01-01"
+  },
+  {
+    "id": 43,
+    "titulo": "La danza del cosmos",
+    "autor": "Carl Sagan",
+    "isbn": "978-84-206-6323-9",
+    "genero": "Astronomia",
+    "fechaPublicacion": "2013-01-01"
+  }
+]
